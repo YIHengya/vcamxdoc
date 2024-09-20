@@ -1,6 +1,9 @@
 # 无界直播使用教程
-以下是视频推流的使用教程，视频直播同理，
-[视频使用教程](https://b23.tv/aDd5wHP),软件下载地址：https://iheng.lanzouv.com/b0w7xqk2b 密码:br7b
+以下是视频推流的使用教程，视频直播同理，[视频使用教程](https://b23.tv/aDd5wHP),
+
+软件下载地址：https://iheng.lanzouv.com/b0w7xqk2b 密码:br7b
+
+购买地址：[无界直播商城](https://shop.vcamx.com)
 
 ## 无界直播使用教程
 > 如果软件相应平台不可用，请查询下方的软件更新记录，查询是否有相应的版本测试过的，然后安装那个版本来使用
